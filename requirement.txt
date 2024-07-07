@@ -1,0 +1,9 @@
+trulens_eval
+llama_index
+pydantic
+litellm
+pypdf
+torch
+sentence-transformers
+llama-index-llms-langchain
+llama_index.llms.fireworks
